@@ -14,7 +14,7 @@
 📁 [Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
 
 ## 🔗 Lien du Projet
-    Jouer : https://yonbidev.github.io/Dreamland/
+🎮 [Jouer](https://yonbidev.github.io/Dreamland/)
 
 ## 🌍 Histoire
 

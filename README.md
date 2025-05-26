@@ -9,11 +9,11 @@
 ---
 
 
-## 🔗 Lien du Projet
+## 🔗 Lien du Projet Github
 
 📁 [Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
 
-## 🔗 Lien du Projet
+## 🔗 Lien du Jeu
 🎮 [Jouer](https://yonbidev.github.io/Dreamland/)
 
 ## 🌍 Histoire

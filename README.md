@@ -13,6 +13,9 @@
 
 📁 [Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
 
+## 🔗 Lien du Projet
+    Jouer : https://yonbidev.github.io/Dreamland/
+
 ## 🌍 Histoire
 
 Après des siècles d'errance dans l'espace, les humains découvrent une planète étrange et luxuriante : **Dreamland**. Cette planète est vivante, nourrie par un unique et puissant **Arbre Cristal**, source de toute la nature qui l'entoure.

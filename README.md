@@ -51,29 +51,35 @@ Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêv
 
 Guardians of Dreamland est un **jeu de type Tower Defense**, où stratégie, anticipation et positionnement sont la clé.
 
-### 🔸 Phases de jeu
+## 🎮 Gameplay – Guardians of Dreamland
 
-#### 🧱 1. Phase de Préparation
-
-- 👇 En bas de l'écran, plusieurs **icônes de tourelles (arbres magiques)** sont disponibles.
-- 🌀 Chaque tourelle coûte des **Éclats de Rêves** (la monnaie du jeu).
-- 🖱️ **Clic gauche** : sélectionne et place une tourelle sur le terrain.
-- ❌ **Clic droit** : annule la pose de tourelle si vous changez d'avis.
-- ✅ Une fois vos tourelles placées, cliquez sur le bouton **"Commencer la vague"** (Start Wave) pour lancer la prochaine attaque.
-
-#### ⚔️ 2. Phase de Combat
-
-- 🌊 Des **vagues successives d'ennemis** apparaissent et se dirigent vers le **Nexus**.
-- 🌳 Vos tourelles attaquent automatiquement les ennemis à portée.
-- 🛠️ Entre chaque vague, vous pouvez placer d'autre tourelles si vous avez suffisamment d’éclats.
+**Guardians of Dreamland** est un jeu **Tower Defense** dans lequel vous devez défendre le Nexus contre des vagues d’ennemis en utilisant la puissance des arbres magiques. Le jeu mêle stratégie, anticipation et placement tactique.
 
 ---
 
-## 🎯 Objectif
+### 🔄 Déroulement du Jeu
 
-Empêchez les **Rêves** d’atteindre le **Nexus Cristallin**.
+#### 🧱 Phase de Préparation  
+- En début de chaque vague, vous disposez de plusieurs tourelles (arbres magiques), chacune ayant un coût en **Éclats de Rêves**.  
+- Placez stratégiquement vos tourelles sur le terrain pour couvrir un maximum de zones.  
+- Lorsque vous êtes prêt, cliquez sur **"Commencer la vague"** pour faire apparaître les ennemis.
 
-Chaque ennemi qui passe diminue la vie du Nexus. Si le Nexus tombe, Dreamland est perdue...
+#### ⚔️ Phase de Combat  
+- Les ennemis apparaissent en vagues successives et cherchent à atteindre le **Nexus**.  
+- Vos tourelles attaquent automatiquement les ennemis à portée, avec des effets et vitesses propres à chacune.  
+- À la fin de chaque vague, vous récupérez des Éclats de Rêves selon vos performances, que vous pouvez réinvestir pour renforcer votre défense.
+
+---
+
+### 🌟 Objectif
+
+Empêchez les ennemis d’atteindre le Nexus. Chaque ennemi qui passe vous fait perdre de l’énergie vitale. La partie prend fin lorsque le Nexus est détruit.
+
+---
+
+### 💡 Astuce
+
+Utilisez le terrain à votre avantage : les **angles, carrefours et intersections** sont idéaux pour maximiser les dégâts des tourelles.
 
 ---
 

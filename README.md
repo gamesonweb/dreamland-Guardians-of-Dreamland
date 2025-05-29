@@ -64,6 +64,6 @@ Chaque ennemi qui passe diminue la vie du Nexus. Si le Nexus tombe, Dreamland es
 ---
 
 
-## ✨ Merci d’avoir joué à Dreamland Defender
+## ✨ Merci d’avoir joué à Guardians of Dreamland
 
 Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de ce monde onirique. 🌠

@@ -10,13 +10,23 @@
 
 ---
 
+## 🌐 Accès au Projet et au Jeu
 
-## 🔗 Lien du Projet Github
+### 📁 Code Source sur GitHub  
+Plonge dans les coulisses du développement !  
+🔗 [Voir le dépôt Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
 
-📁 [Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
+---
 
-## 🔗 Lien du Jeu
-🎮 [Jouer](https://yonbidev.github.io/Dreamland/)
+### 📄 Documentation Officielle  
+Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces de développement...  
+📘 [Lire la documentation](https://github.com/gamesonweb/dreamland-YonbiDev/blob/main/DOCUMENTATION.md)
+
+---
+
+### 🎮 Lancer le Jeu  
+Prêt à défendre l'Arbre Cristal ?  
+🚀 [Jouer à Dreamland](https://yonbidev.github.io/Dreamland/)
 
 ![Histoire](https://github.com/user-attachments/assets/c8692669-d2a1-43c3-a150-1b179ef74387)
 

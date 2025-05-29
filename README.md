@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tcwhlYLU)
-
-# 🌌 Dreamland Defender
+# 🌌 Guardians of Dreamland
+![image_jeu](https://github.com/user-attachments/assets/564ca964-34f1-46d2-a76d-9ed141b4e905)
 
 🎮 **Par** : Fouad Benamara  
 🏫 **Université** : Université de Haute-Alsace, Mulhouse  
@@ -30,7 +29,7 @@ Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêv
 
 ## 🕹️ Gameplay
 
-Dreamland Defender est un **jeu de type Tower Defense**, où stratégie, anticipation et positionnement sont la clé.
+Guardians of Dreamland est un **jeu de type Tower Defense**, où stratégie, anticipation et positionnement sont la clé.
 
 ### 🔸 Phases de jeu
 
@@ -46,7 +45,7 @@ Dreamland Defender est un **jeu de type Tower Defense**, où stratégie, anticip
 
 - 🌊 Des **vagues successives d'ennemis** apparaissent et se dirigent vers le **Nexus**.
 - 🌳 Vos tourelles attaquent automatiquement les ennemis à portée.
-- 🛠️ Entre chaque vague, vous pouvez replacer ou améliorer vos défenses si vous avez suffisamment d’éclats.
+- 🛠️ Entre chaque vague, vous pouvez placer d'autre tourelles si vous avez suffisamment d’éclats.
 
 ---
 

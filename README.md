@@ -30,6 +30,8 @@ Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces 
 Prêt à défendre l'Arbre Cristal ?  
 🚀 [Jouer à Dreamland](https://yonbidev.github.io/Dreamland/)
 
+---
+
 ![Histoire](https://github.com/user-attachments/assets/c8692669-d2a1-43c3-a150-1b179ef74387)
 
 

@@ -76,4 +76,51 @@ Chaque ennemi qui passe diminue la vie du Nexus. Si le Nexus tombe, Dreamland es
 
 ## ✨ Merci d’avoir joué à Guardians of Dreamland
 
-Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de ce monde onirique. 🌠
+Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de ce monde onirique. 🌠  
+  
+
+## 📜 Crédits
+
+### 🎵 Musique
+
+- **Adventure** par [Alexander Nakarada (CreatorChords)](https://creatorchords.com)  
+  Musique promue par [Free Stock Music](https://www.free-stock-music.com)  
+  Licence : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+- **Dragonquest** par [Alexander Nakarada (CreatorChords)](https://creatorchords.com)  
+  Musique promue par [Free Stock Music](https://www.free-stock-music.com)  
+  Licence : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+- Musique par [TheoJT](https://pixabay.com/users/theojt-11288480/) sur [Pixabay Music](https://pixabay.com/music/)
+
+---
+
+### 🎬 Vidéo
+
+- Vidéo du menu principal :  
+  [Beauty Stock Videos by Vecteezy](https://www.vecteezy.com/free-videos/beauty)
+
+---
+
+### 🧱 Assets Visuels (Unity Asset Store)
+
+- **Rockets, Missiles & Bombs – Cartoon Low Poly Pack**  
+  Auteur : *BenjaTheMaker*  
+  [Unity Asset Store](https://assetstore.unity.com/)
+
+- **Fantasy FREE - Low Poly 3D Models Pack**  
+  Auteur : *ithappy*  
+  [Unity Asset Store](https://assetstore.unity.com/)
+
+- **Palmov Island – Low Poly Atmospheric Locations Pack**  
+  Auteur : *Palmov*  
+  [Unity Asset Store](https://assetstore.unity.com/)
+
+---
+
+### 🧠 Contenus générés par IA
+
+- Certaines images du jeu ont été **générées avec l'IA** pour enrichir l'univers visuel du jeu.
+
+---
+

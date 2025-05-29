@@ -3,10 +3,12 @@
 <img src="https://github.com/user-attachments/assets/bafab0cc-d4c1-4ddb-a631-642a9f276d8e" alt="image_jeu" >
 
 
+### 👤 Auteur
 
 🎮 **Par** : Fouad Benamara  
 🏫 **Université** : Université de Haute-Alsace, Mulhouse  
-🎓 **Niveau** : Master 1 (M1)
+🎓 **Niveau** : Master 1 (M1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fouad-benamara)  
 
 ---
 

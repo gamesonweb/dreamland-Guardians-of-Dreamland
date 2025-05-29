@@ -1,5 +1,8 @@
 # 🌌 Guardians of Dreamland
-![image_jeu](https://github.com/user-attachments/assets/564ca964-34f1-46d2-a76d-9ed141b4e905)
+
+<img src="https://github.com/user-attachments/assets/bafab0cc-d4c1-4ddb-a631-642a9f276d8e" alt="image_jeu" >
+
+
 
 🎮 **Par** : Fouad Benamara  
 🏫 **Université** : Université de Haute-Alsace, Mulhouse  
@@ -15,7 +18,9 @@
 ## 🔗 Lien du Jeu
 🎮 [Jouer](https://yonbidev.github.io/Dreamland/)
 
-## 🌍 Histoire
+![Histoire](https://github.com/user-attachments/assets/c8692669-d2a1-43c3-a150-1b179ef74387)
+
+
 
 Après des siècles d'errance dans l'espace, les humains découvrent une planète étrange et luxuriante : **Dreamland**. Cette planète est vivante, nourrie par un unique et puissant **Arbre Cristal**, source de toute la nature qui l'entoure.
 
@@ -27,7 +32,8 @@ Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêv
 
 ---
 
-## 🕹️ Gameplay
+![Gameplay](https://github.com/user-attachments/assets/a9e5687e-0b88-4c0e-8ea4-6251f10d7a7c)
+
 
 Guardians of Dreamland est un **jeu de type Tower Defense**, où stratégie, anticipation et positionnement sont la clé.
 
@@ -57,15 +63,6 @@ Chaque ennemi qui passe diminue la vie du Nexus. Si le Nexus tombe, Dreamland es
 
 ---
 
-## 📸 Captures et Éléments Visuels (à ajouter)
-
-- 🖼️ **Icônes de tourelles**
-- 🌈 **Barre d’Éclats de Rêves**
-- ❤️ **Barre de vie du Nexus**
-- 🔘 **Bouton Start Wave**
-- 👾 **Ennemis - Les Rêves**
-
----
 
 ## ✨ Merci d’avoir joué à Dreamland Defender
 

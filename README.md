@@ -26,6 +26,14 @@ Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces 
 
 ---
 
+### 📺 Vidéo de Gameplay  
+Découvre **Defenders of the Dreamland** en action !  
+🎮 Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.
+
+🔗 [Regarder le gameplay sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)
+
+---
+
 ### 🎮 Lancer le Jeu  
 Prêt à défendre l'Arbre Cristal ?  
 🚀 [Jouer à Dreamland](https://yonbidev.github.io/Dreamland/)

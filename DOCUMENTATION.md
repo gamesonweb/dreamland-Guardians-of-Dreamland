@@ -58,37 +58,14 @@ Ce compteur vous montre le **nombre d’ennemis** restants dans la vague actuell
 ### 🛡️ Tourelles Disponibles
 Voici les défenses magiques que vous pouvez invoquer pour protéger l'Arbre Cristal. Chaque tourelle a son rôle unique, alors choisissez et placez-les stratégiquement !
 
-***🌿 Sylve Gardienne (Disponible dès le début)***  
-![image](https://github.com/user-attachments/assets/7a1dbc08-0c32-4e5f-81f5-e666fadfe6ac)  
+| 🌿 **Sylve Gardienne** | ❄️ **Cristal de Givre** | 💥 **Champi Explosif** |
+|:----------------------:|:-----------------------:|:------------------------:|
+| <div align="center"><img src="https://github.com/user-attachments/assets/7a1dbc08-0c32-4e5f-81f5-e666fadfe6ac" width="120"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/be2e2555-99f4-4392-b51b-eb3c3d2b6946" width="120"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/2a94e87d-c9aa-475a-b915-480bba0c86cb" width="120"/></div> |
+| 🟢 **Portée** : 15 <br> 💨 **Vitesse du projectile** : 40 <br> ⏱️ **Délai d’attaque** : 2s <br> 💎 **Prix** : 5 Éclats de Rêves <br> 🎯 **Rôle** : Inflige des dégâts directs <br> 💡 *Astuce* : Placez-la près des virages. | 🔵 **Portée** : 25 <br> 💨 **Vitesse du projectile** : 35 <br> ⏱️ **Délai d’attaque** : 3s <br> 💎 **Prix** : 10 Éclats de Rêves <br> 🧊 **Rôle** : Ralentit les ennemis touchés <br> 💡 *Astuce* : Combinez-la avec d'autres tourelles. | 🟤 **Portée** : 25 <br> 💨 **Vitesse du projectile** : 40 <br> ⏱️ **Délai d’attaque** : 4s <br> 💎 **Prix** : 15 Éclats de Rêves <br> 🔥 **Rôle** : Dégâts de zone <br> 💡 *Astuce* : Placez-la là où les ennemis sont regroupés. |
 
-🟢 Portée : 15  
-💨 Vitesse du projectile : 40  
-⏱️ Délai d’attaque : 2s  
-💎 Prix : 5 Éclats de Rêves  
-🎯 Rôle : Inflige des dégâts directs aux ennemis.  
-💡 Astuce : Placez-la près des virages pour maximiser les tirs.
+🔓 **Astuce stratégie** : Gardez un œil sur le moment où vous débloquez chaque tourelle. Parfois, économiser vos Éclats de Rêves pour une tourelle plus puissante peut vous sauver d’une vague difficile.
 
-***❄️ Cristal de Givre (Débloqué à la fin de la Vague 2)***  
-![image](https://github.com/user-attachments/assets/be2e2555-99f4-4392-b51b-eb3c3d2b6946)
 
-🔵 Portée : 25  
-💨 Vitesse du projectile : 35  
-⏱️ Délai d’attaque : 3s  
-💎 Prix : 10 Éclats de Rêves  
-🧊 Rôle : Ralentit les ennemis touchés.  
-💡 Astuce : Combinez-la avec d'autres tourelles pour plus d'efficacité.  
-
-***💥 Champi Explosif (Débloqué à la fin de la Vague 4)***  
-![image](https://github.com/user-attachments/assets/2a94e87d-c9aa-475a-b915-480bba0c86cb)
-
-🟤 Portée : 25  
-💨 Vitesse du projectile : 40  
-⏱️ Délai d’attaque : 4s  
-💎 Prix : 15 Éclats de Rêves  
-🔥 Rôle : Explose et inflige des dégâts de zone.  
-💡 Astuce : Placez-la là où les ennemis sont regroupés pour un maximum d’impact.  
-
-🔓 Astuce stratégie : Gardez un œil sur le moment où vous débloquez chaque tourelle. Parfois, économiser vos Éclats de Rêves pour une tourelle plus puissante peut vous sauver d’une vague difficile.
 ### 🚪 Le Portail d’Apparition  
 ![image](https://github.com/user-attachments/assets/63639f9e-8cb8-4820-959b-07406df79a76)
 

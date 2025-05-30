@@ -49,10 +49,6 @@ Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêv
 ![Gameplay](https://github.com/user-attachments/assets/a9e5687e-0b88-4c0e-8ea4-6251f10d7a7c)
 
 
-Guardians of Dreamland est un **jeu de type Tower Defense**, où stratégie, anticipation et positionnement sont la clé.
-
-## 🎮 Gameplay – Guardians of Dreamland
-
 **Guardians of Dreamland** est un jeu **Tower Defense** dans lequel vous devez défendre le Nexus contre des vagues d’ennemis en utilisant la puissance des arbres magiques. Le jeu mêle stratégie, anticipation et placement tactique.
 
 ---

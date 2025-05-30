@@ -139,3 +139,13 @@ Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de
 
 ---
 
+## 🙏 Remerciements
+
+Un immense merci à toute l’équipe de **Babylon**.
+Également un grand merci aux **organisateurs de l'événement GameSonWeb** pour avoir rendu cette expérience possible.  
+Votre passion pour le jeu vidéo et votre engagement envers les développeurs indépendants sont une véritable source d'inspiration.
+
+🎮 Merci à tous ceux qui ont testé, encouragé et partagé **Guardians of Dreamland** !
+
+---
+

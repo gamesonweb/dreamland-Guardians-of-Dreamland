@@ -17,9 +17,9 @@ L'interface peut sembler foisonnante au premier abord, mais chaque élément est
 Tu préfères apprendre en jouant plutôt qu’en lisant ?
 Pas de souci ! Le jeu propose un tutoriel interactif qui t’explique exactement comme ce guide, mais directement dans l’interface du jeu :
 
-🔹 Des flèches te montrent où cliquer
-🔹 Des zones surlignées attirent ton attention
-🔹 Des bulles d’aide t’expliquent chaque élément (Éclats, Santé, Tourelles...)
+🔹 Des flèches te montrent où cliquer  
+🔹 Des zones surlignées attirent ton attention  
+🔹 Des bulles d’aide t’expliquent chaque élément (Éclats, Santé, Tourelles...)  
 
 🎮 Pour l’activer, clique sur le bouton 📖 Tutoriel 
 C’est le meilleur moyen de découvrir le jeu sans te sentir perdu !
@@ -98,6 +98,16 @@ Ils fonceront droit vers votre **Arbre Cristal**.
 
 ---
 
+## 👻 Les Ennemis du Royaume des Songes
+
+Dans *Guardians of Dreamland*, une grande variété de fantômes tentera de franchir vos défenses. Chacun possède des caractéristiques uniques, rendant chaque vague plus stratégique.
+
+🖼️ **Aperçu visuel de tous les ennemis**  
+*(Présent également dans le menu principal du jeu)*  
+<img src="https://github.com/user-attachments/assets/b358cc19-d482-409f-8ac1-533d63a0ea3a" alt="Aperçu des ennemis" width="600" />
+
+
+
 ## 🎮 Naviguer et Agir : Les Contrôles Simples
 
 Contrôler le champ de bataille est **intuitif**, mais la **maîtrise fait la différence** :
@@ -113,6 +123,6 @@ Contrôler le champ de bataille est **intuitif**, mais la **maîtrise fait la di
 ### 🚨 Quand tout est prêt...
 
 👉 Cliquez sur **_“Démarrer la vague”_** pour lancer l’assaut ennemi.  
-![image](https://github.com/user-attachments/assets/4c6a061a-fea5-46ef-b7f7-d1dc768e02cd)
+![image](https://github.com/user-attachments/assets/4c6a061a-fea5-46ef-b7f7-d1dc768e02cd) 
 
 Bonne chance, **défenseur du Rêve** ! 🌙

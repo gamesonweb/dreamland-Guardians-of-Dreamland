@@ -16,7 +16,7 @@
 
 ### 📁 Code Source sur GitHub  
 Plonge dans les coulisses du développement !  
-🔗 [Voir le dépôt Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
+🔗 [Voir le dépôt Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland/tree/gh-pages)
 
 ---
 

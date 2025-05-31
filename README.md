@@ -28,9 +28,11 @@ Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces 
 
 ### 📺 Vidéo de Gameplay  
 Découvre **Defenders of the Dreamland** en action !  
-🎮 Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.
+🎮 Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.  
+🔗 [Regarder le gameplay court sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)
 
-🔗 [Regarder le gameplay sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)
+🎬 **Long Gameplay** – Profite d’une session complète de jeu pour découvrir toute l’expérience :  
+🔗 [Voir le long gameplay sur YouTube](https://www.youtube.com/watch?v=e2xOpjr572Y)
 
 ---
 
@@ -117,19 +119,25 @@ Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de
 
 ---
 
+---
+
 ### 🧱 Assets Visuels (Unity Asset Store)
 
 - **Rockets, Missiles & Bombs – Cartoon Low Poly Pack**  
   Auteur : *BenjaTheMaker*  
-  [Unity Asset Store](https://assetstore.unity.com/)
 
 - **Fantasy FREE - Low Poly 3D Models Pack**  
   Auteur : *ithappy*  
-  [Unity Asset Store](https://assetstore.unity.com/)
 
 - **Palmov Island – Low Poly Atmospheric Locations Pack**  
   Auteur : *Palmov*  
-  [Unity Asset Store](https://assetstore.unity.com/)
+
+- **RPG Tiny Fantasy Forest – PBR**  
+  Auteur : *Trisula Studio*  
+
+- **Kawaii Slimes – 3D Creatures Pack**  
+  Auteur : *Félicien Perdu (CuteKittiesStudio)*  
+
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### 📁 Code Source sur GitHub  
 Plonge dans les coulisses du développement !  
-🔗 [Voir le dépôt Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland)
+🔗 [Voir le dépôt Dreamland sur GitHub](https://github.com/YonbiDev/Dreamland/tree/gh-pages)
 
 ---
 
@@ -136,6 +136,16 @@ Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de
 ### 🧠 Contenus générés par IA
 
 - Certaines images du jeu ont été **générées avec l'IA** pour enrichir l'univers visuel du jeu.
+
+---
+
+## 🙏 Remerciements
+
+Un immense merci à toute l’équipe de **Babylon**.
+Également un grand merci aux **organisateurs de l'événement GameSonWeb** pour avoir rendu cette expérience possible.  
+Votre passion pour le jeu vidéo et votre engagement envers les développeurs indépendants sont une véritable source d'inspiration.
+
+🎮 Merci à tous ceux qui ont testé, encouragé et partagé **Guardians of Dreamland** !
 
 ---
 

@@ -1,6 +1,6 @@
 # 🌌 Guardians of Dreamland
 
-<img src="https://github.com/user-attachments/assets/bafab0cc-d4c1-4ddb-a631-642a9f276d8e" alt="image_jeu" >
+<img src="https://github.com/user-attachments/assets/2c743b0e-ca70-4a14-bf0a-50013d0801f4" alt="image_jeu" width="90%" >
 
 
 ### 👤 Auteur

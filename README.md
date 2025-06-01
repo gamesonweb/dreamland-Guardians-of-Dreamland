@@ -79,7 +79,7 @@ Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêv
 
 ### 🌟 Objectif
 
-Empêchez les ennemis d’atteindre le Nexus. Chaque ennemi qui passe vous fait perdre de l’énergie vitale. La partie prend fin lorsque le Nexus est détruit.
+Empêchez les ennemis d’atteindre le Nexus. Chaque ennemi qui passe vous fait perdre de l’énergie vitale. La partie prend fin soit lorsque le Nexus est détruit, soit lorsque vous parvenez à survivre jusqu'à la vague 30.
 
 ---
 

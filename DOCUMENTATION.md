@@ -103,3 +103,137 @@ Contrôler le champ de bataille est **intuitif**, mais la **maîtrise fait la di
 ![image](https://github.com/user-attachments/assets/4c6a061a-fea5-46ef-b7f7-d1dc768e02cd) 
 
 Bonne chance, **défenseur du Rêve** ! 🌙
+
+
+
+
+
+
+# 🛡️ Documentation Technique 
+
+## 1. Présentation du projet
+
+Ce projet est un **jeu Tower Defense en 3D** que j’ai développé avec **BabylonJS**. Le but est de défendre un Arbre Cristal contre des vagues d’ennemis qui suivent plusieurs chemins. J’ai intégré plusieurs mécaniques comme le placement de tourelles, différents types de projectiles, une gestion dynamique des vagues, un système d’interface complet, etc.
+
+> La carte principale du jeu a été **modélisée sous Unity 3D**, puis **exportée au format `.glb`** pour l’intégrer dans BabylonJS. Ça m’a permis de profiter d’un éditeur 3D puissant tout en gardant la logique du jeu dans un environnement web.
+>
+> ![image](https://github.com/user-attachments/assets/33d3edaa-b79d-427b-8b6d-b37b79001107)
+
+
+Le projet m’a demandé beaucoup de travail, surtout côté code, car il fallait synchroniser tous les éléments (ennemis, tourelles, projectiles, interface, éditeur de niveau...). C’était un vrai défi mais aussi très enrichissant.
+
+---
+
+## 2. Structure générale du projet
+
+
+### 🎮 Lancement et scène principale (`app.ts`)
+
+Tout commence par le fichier `app.ts`. C’est ici que le jeu démarre :
+
+- Initialisation de BabylonJS
+- Chargement de la map (créée avec Unity puis exportée en `.glb`)
+- Mise en place de la caméra, lumière, skybox, musiques, etc.
+- Appel des autres modules pour construire le reste du gameplay
+
+---
+
+### 👾 Les ennemis (`Enemy.ts`)
+
+Chaque ennemi est une instance de la classe `Enemy`. Un ennemi possède :
+
+- Des points de vie
+- Une vitesse de déplacement
+- Une récompense (éclats de rêve) quand on l’élimine
+- Un comportement de déplacement basé sur des waypoints
+- ![image](https://github.com/user-attachments/assets/a1f4c2cf-d4b8-4b7e-9fa9-f5daf63c2344)
+
+
+Ils sont générés par vagues successives et suivent un chemin défini grâce aux waypoints que j’explique juste après.
+
+---
+
+### 🧭 Les waypoints et spawns (éditeur intégré)
+
+Pour créer les chemins que suivent les ennemis, j’ai développé un **éditeur visuel intégré**. Il permet :
+
+- De placer les waypoints manuellement sur la scène
+- De définir les points de spawn
+- De sauvegarder tout cela au format `.json`
+  
+
+![image](https://github.com/user-attachments/assets/489d331d-cb5b-4d2f-8468-2ae1ce581220)
+
+➡️ Ces fichiers `.json` sont ensuite rechargés lors du lancement du niveau.
+
+---
+
+### 💥 Les tourelles (`Turret.ts`)
+
+Les tourelles sont des défenses automatiques. Chaque tourelle :
+
+- Se place manuellement via l’interface
+- Détecte les ennemis à proximité
+- Tire automatiquement selon son type
+- Peut utiliser différents projectiles : projectiles simples, AoE, ralentisseurs, etc.
+![image](https://github.com/user-attachments/assets/d95b1e28-bf24-458a-83c4-4d8b8c19f88d)
+
+
+Chaque type de tourelle est une classe héritée, comme par exemple `StarTurret`, `SnowTurret`, ou `MushroomTurret`.
+
+---
+
+### 🎯 Les projectiles (`Projectile.ts`)
+
+Les projectiles ont également leur propre logique. Il existe :
+
+- Des projectiles à dégâts directs
+- Des projectiles à effet de zone (AoE)
+- Des projectiles à effet spécial (ralentissement par exemple)
+
+Chaque projectile est une classe dérivée de `Projectile`, comme `StarProjectile`, `SnowBallProjectile`, ou `MushroomBombProjectile`.
+
+---
+
+### 🌊 Gestion des vagues (`WaveManager.ts`)
+
+Le `WaveManager` gère :
+
+- Le lancement des vagues (bouton "Start Wave")
+- Le nombre d'ennemis à générer
+- L’augmentation progressive de la difficulté
+- La récompense en éclats de rêve à chaque ennemi éliminé ou à la fin de la vague
+
+---
+
+### 🧩 L’interface utilisateur (`UIManager.ts`)
+
+L’UI est essentielle pour donner au joueur des infos claires. Le `UIManager` affiche :
+
+- Le nombre de points de vie de l’arbre 🌳
+- Le nombre d’éclats de rêve 💎 (la monnaie du jeu)
+- Le bouton pour lancer la prochaine vague
+- Les infos sur les tourelles (prix, effet)
+- Les messages temporaires (victoire, défaite, erreur de placement…)
+
+---
+
+### 🔁 Résumé du flux de jeu
+
+Voici comment tout s’enchaîne :
+
+1. Chargement de la carte Unity exportée
+2. Phase de préparation : placement des tourelles
+3. Lancement manuel de la vague
+4. Ennemis apparaissent et suivent les waypoints
+5. Tourelles tirent automatiquement
+6. Récompenses collectées → on peut racheter des tourelles
+7. Nouvelle vague → le jeu continue jusqu’à la victoire ou la défaite
+
+---
+
+C’est une structure que j’ai conçue pour être évolutive. Je peux facilement ajouter de nouvelles tourelles, des ennemis différents ou créer de nouveaux niveaux simplement en modifiant les fichiers `.json` générés par l’éditeur de chemin.
+
+
+
+

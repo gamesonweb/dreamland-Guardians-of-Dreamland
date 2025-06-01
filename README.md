@@ -27,7 +27,7 @@ Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces 
 ---
 
 ### 📺 Vidéo de Gameplay  
-Découvre **Defenders of the Dreamland** en action !  
+Découvre **Guardians of Dreamland** en action !  
 🎮 Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.  
 🔗 [Regarder le gameplay court sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)
 

@@ -90,13 +90,9 @@ Utilisez le terrain à votre avantage : les **angles, carrefours et intersection
 ---
 
 
-## ✨ Merci d’avoir joué à Guardians of Dreamland
+![Crédit](https://github.com/user-attachments/assets/0ce0f7ee-1cc5-4c85-93f3-20a81189b69b)
 
-Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de ce monde onirique. 🌠  
-  
----
 
-## 📜 Crédits
 
 ### 🎵 Musique
 
@@ -147,13 +143,19 @@ Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de
 
 ---
 
-## 🙏 Remerciements
+![Remerciements](https://github.com/user-attachments/assets/8071c008-dcc3-4843-ab2b-df26a15b2904)
+
 
 Un immense merci à toute l’équipe de **Babylon**.
 Également un grand merci aux **organisateurs de l'événement GameSonWeb** pour avoir rendu cette expérience possible.  
 Votre passion pour le jeu vidéo et votre engagement envers les développeurs indépendants sont une véritable source d'inspiration.
 
-🎮 Merci à tous ceux qui ont testé, encouragé et partagé **Guardians of Dreamland** !
 
+---
+
+## ✨ Merci d’avoir joué à Guardians of Dreamland
+
+Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de ce monde onirique. 🌠  
+  
 ---
 

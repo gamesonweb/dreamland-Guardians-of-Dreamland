@@ -102,6 +102,21 @@ Contrôler le champ de bataille est **intuitif**, mais la **maîtrise fait la di
 👉 Cliquez sur **_“Démarrer la vague”_** pour lancer l’assaut ennemi.  
 ![image](https://github.com/user-attachments/assets/4c6a061a-fea5-46ef-b7f7-d1dc768e02cd) 
 
+---
+### 💀 Game Over ? Pas grave !
+<img src="https://github.com/user-attachments/assets/6f43f138-68ba-4dea-998d-a8c0df299018"  width="60%" alt="Éclats de Rêves">
+
+
+🔁 Le jeu est difficile, et c’est voulu.
+Même si votre Arbre Cristal tombe, ce n’est pas la fin :
+Chaque défaite vous apprend quelque chose — un meilleur placement, un meilleur timing, une meilleure tourelle.
+
+🎯 La clé, c’est la stratégie. Les emplacements sont cruciaux.
+
+💪 Alors, respirez… recommencez… et devenez un vrai Gardien du Rêve.
+<img src="https://github.com/user-attachments/assets/3d889e0b-785c-4e45-acb9-d8590a8c1747"  width="60%" alt="Éclats de Rêves">
+
+
 Bonne chance, **défenseur du Rêve** ! 🌙
 
 

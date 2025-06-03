@@ -145,9 +145,8 @@ Utilisez le terrain à votre avantage : les **angles, carrefours et intersection
 ![Remerciements](https://github.com/user-attachments/assets/8071c008-dcc3-4843-ab2b-df26a15b2904)
 
 
-Un immense merci à toute l’équipe de **Babylon**.
-Également un grand merci aux **organisateurs de l'événement GameSonWeb** pour avoir rendu cette expérience possible.  
-Votre passion pour le jeu vidéo et votre engagement envers les développeurs indépendants sont une véritable source d'inspiration.
+Un immense merci à toute l’équipe de **Babylon** **CGI** ***Microsoft*** .
+Également un grand merci aux **organisateurs de l'événement Gamesonweb** pour avoir rendu cette expérience possible.  
 
 
 ---
@@ -158,3 +157,38 @@ Protégez Dreamland, défendez le cristal, et devenez le Champion légendaire de
   
 ---
 
+
+
+
+
+## 🌙 Pour les plus curieux : l’histoire derrière la création du jeu
+
+Tout a commencé avec une idée un peu différente…
+
+Au départ, j’imaginais un jeu où le joueur se réveillait dans un **désert vide**, et devait **bâtir son propre Dreamland**.  
+L’idée était de **collecter des ressources**, un peu comme dans *Age of Empires*, pour faire émerger un **monde onirique** petit à petit.  
+Un jeu de **construction**, de **gestion**, où chaque pierre posée rendrait le rêve plus réel.
+
+Mais en avançant dans ma réflexion, quelque chose me dérangeait...
+
+Je voulais que le joueur **ressente l’univers du rêve dès les premières secondes**.  
+Or, commencer dans un désert vide, c’était... trop « réel », trop « logique ».  
+**Pas assez magique. Pas assez Dreamland.**
+
+Alors j’ai tout remis à plat.
+
+Je me suis dit :  
+> « Et si le Dreamland existait déjà ?  
+> Et si, au lieu de le construire… on devait le protéger ? »
+
+Et là, tout s’est aligné :
+
+✨ Un **univers féerique déjà formé**  
+😈 Des **ennemis mystérieux**, issus de cauchemars  
+🛡️ Et vous, **le gardien d’un monde fragile à défendre**, vague après vague
+
+---
+
+C’est comme ça que *Guardians of Dreamland* est né :  
+Un jeu **stratégique**, mais aussi **immersif**, où chaque tourelle posée est un **acte de protection**,  
+un **refus de laisser l’obscurité envahir le rêve**.

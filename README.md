@@ -26,13 +26,17 @@ Retrouve toutes les infos techniques du jeu : mécanique, architecture, astuces 
 
 ---
 
-### 📺 Vidéo de Gameplay  
+### 📺 Vidéos
 Découvre **Guardians of Dreamland** en action !  
-🎮 Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.  
-🔗 [Regarder le gameplay court sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)
 
-🎬 **Long Gameplay** – Profite d’une session complète de jeu pour découvrir toute l’expérience :  
-🔗 [Voir le long gameplay sur YouTube](https://www.youtube.com/watch?v=e2xOpjr572Y)
+💤 *Plongez dans l’univers onirique de Guardians of Dreamland avec ce trailer magique…*  
+🔗 [Regarder le trailer sur YouTube](https://www.youtube.com/watch?v=NaQI7TuQ9o8&ab_channel=FouadBenamara)  
+
+🎮 *Plonge dans l'univers magique du jeu, découvre les mécaniques, les tourelles et les stratégies.*  
+🔗 [Regarder le gameplay court sur YouTube](https://www.youtube.com/watch?v=jNVX-ozdFNw)  
+
+🎬 ***Long Gameplay** – Profite d’une session complète de jeu pour découvrir toute l’expérience :*  
+🔗 [Regarder le long gameplay sur YouTube](https://www.youtube.com/watch?v=e2xOpjr572Y)
 
 ---
 

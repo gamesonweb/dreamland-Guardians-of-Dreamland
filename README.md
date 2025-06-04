@@ -149,7 +149,7 @@ Utilisez le terrain à votre avantage : les **angles, carrefours et intersection
 ![Remerciements](https://github.com/user-attachments/assets/8071c008-dcc3-4843-ab2b-df26a15b2904)
 
 
-Un immense merci à toute l’équipe de **Babylon** **CGI** ***Microsoft*** .
+Un immense merci à toute l’équipe de **Babylon**, **CGI** et **Microsoft**.  
 Également un grand merci aux **organisateurs de l'événement Gamesonweb** pour avoir rendu cette expérience possible.  
 
 

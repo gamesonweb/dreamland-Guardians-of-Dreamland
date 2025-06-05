@@ -7,7 +7,7 @@
 
 🎮 **Par** : Fouad Benamara  
 🏫 **Université** : Université de Haute-Alsace, Mulhouse  
-🎓 **Niveau** : Master 1 (M1)  
+🎓 **Niveau** : Master 1 (M1) MIAGE  
 🔗 [LinkedIn](https://www.linkedin.com/in/fouad-benamara)  
 
 ---

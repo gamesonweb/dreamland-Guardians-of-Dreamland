@@ -50,13 +50,17 @@ Prêt à défendre l'Arbre Cristal ?
 
 
 
-Après des siècles d'errance dans l'espace, les humains découvrent une planète étrange et luxuriante : **Dreamland**. Cette planète est vivante, nourrie par un unique et puissant **Arbre Cristal**, source de toute la nature qui l'entoure.
+Perdus depuis des siècles parmi les étoiles, les humains ont découvert une planète impossible. Un monde luxuriant, endormi, et vivant : Dreamland.
 
-Mais la planète attire la convoitise. Des civilisations entières se sont affrontées dans une guerre intergalactique pour s'emparer de cette ressource. Finalement, un peuple triomphe et commence à reconstruire.
+En son cœur, un arbre de cristal palpite. Chaque vibration nourrit la forêt, colore les cieux, et fait rêver la planète.
 
-Cependant, Dreamland est corrompue par des entités sombres appelées **les Rêves**, qui veulent atteindre et détruire le **Nexus Cristallin**.
+Mais la lumière attire l’ombre. Des voyageurs de mondes lointains se sont battus pour s’en emparer. Quand les armes se sont tues, un seul peuple est resté… et a tenté de reconstruire.
 
-🛡️ **Vous êtes le Champion**, le dernier rempart pour défendre le cœur de Dreamland contre les vagues de cauchemars.
+Mais Dreamland rêve encore. Et dans ses rêves s’agitent des cauchemars.
+
+Les “Rêves” rampent vers le Nexus Cristallin, pour le corrompre.
+
+🛡️ Vous êtes le Champion. Le dernier gardien de l’arbre. Le dernier à rêver encore.
 
 ---
 

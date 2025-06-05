@@ -5,7 +5,7 @@
 
 ### 👤 Auteur
 
-🎮 **Par** : Fouad Benamara  
+🎮 **Par** : Fouad BENAMARA  
 🏫 **Université** : Université de Haute-Alsace, Mulhouse  
 🎓 **Formation** : Master 1 MIAGE   
 🔗 [LinkedIn](https://www.linkedin.com/in/fouad-benamara)  
